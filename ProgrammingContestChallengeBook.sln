@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3-KnapsackUnlimited", "2-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3-KnapsackProblem2", "2-3-KnapsackProblem2\2-3-KnapsackProblem2.csproj", "{3CE76F50-7FB6-488F-BD8D-AE77608BE3F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3-SubsetSumUnlimited", "2-3-SubsetSumUnlimited\2-3-SubsetSumUnlimited.csproj", "{47CE2E10-8CDB-40CC-8E8E-A2EE572A1F5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3CE76F50-7FB6-488F-BD8D-AE77608BE3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE76F50-7FB6-488F-BD8D-AE77608BE3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE76F50-7FB6-488F-BD8D-AE77608BE3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CE2E10-8CDB-40CC-8E8E-A2EE572A1F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CE2E10-8CDB-40CC-8E8E-A2EE572A1F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CE2E10-8CDB-40CC-8E8E-A2EE572A1F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CE2E10-8CDB-40CC-8E8E-A2EE572A1F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
