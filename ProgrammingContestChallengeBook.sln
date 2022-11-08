@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3-PartitionFunction", "2-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3-CombinationWithRepetition", "2-3-CombinationWithRepetition\2-3-CombinationWithRepetition.csproj", "{7F67EFB5-3759-4731-A352-DF8E3911CF8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStl", "CSharpStl\CSharpStl.csproj", "{D330BA3B-11AB-4F60-B773-42DF08D5FC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4-Expedition", "2-4-Expedition\2-4-Expedition.csproj", "{990C280D-499B-4946-8B7B-1B399E38DE7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{7F67EFB5-3759-4731-A352-DF8E3911CF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F67EFB5-3759-4731-A352-DF8E3911CF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F67EFB5-3759-4731-A352-DF8E3911CF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D330BA3B-11AB-4F60-B773-42DF08D5FC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D330BA3B-11AB-4F60-B773-42DF08D5FC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D330BA3B-11AB-4F60-B773-42DF08D5FC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D330BA3B-11AB-4F60-B773-42DF08D5FC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990C280D-499B-4946-8B7B-1B399E38DE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990C280D-499B-4946-8B7B-1B399E38DE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990C280D-499B-4946-8B7B-1B399E38DE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990C280D-499B-4946-8B7B-1B399E38DE7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
