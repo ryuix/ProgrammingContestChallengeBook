@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-4-FenceRepair", "2-4-Fenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4-FoodChain", "2-4-FoodChain\2-4-FoodChain.csproj", "{C83F1AE0-791E-433F-8474-BECCCCB711E5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-5-BipartiteGraph", "2-5-BipartiteGraph\2-5-BipartiteGraph.csproj", "{D14D91AF-5DD2-4C01-BB9D-B60E0FC7BE60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C83F1AE0-791E-433F-8474-BECCCCB711E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83F1AE0-791E-433F-8474-BECCCCB711E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83F1AE0-791E-433F-8474-BECCCCB711E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14D91AF-5DD2-4C01-BB9D-B60E0FC7BE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14D91AF-5DD2-4C01-BB9D-B60E0FC7BE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14D91AF-5DD2-4C01-BB9D-B60E0FC7BE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14D91AF-5DD2-4C01-BB9D-B60E0FC7BE60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
